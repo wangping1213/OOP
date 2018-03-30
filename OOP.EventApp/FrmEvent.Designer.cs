@@ -49,7 +49,7 @@
             this.btnSave.Size = new System.Drawing.Size(107, 30);
             this.btnSave.TabIndex = 0;
             this.btnSave.Text = "保  存";
-            this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.UseVisualStyleBackColor = false;
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // FrmEvent
