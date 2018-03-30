@@ -58,6 +58,7 @@ namespace OOP.EventApp
             courseList.Add(new Course("思维导图课程", 1009, "王老师", 27));
             courseList.Add(new Course("高等数学课程", 1010, "王老师", 23));
             courseList.Add(new Course("线性代数能课程", 1011, "王老师", 12));
+            courseList.Add(new Course("体育-太极拳课程", 1012, "翟老师", 10));
             return courseList;
 
         }
